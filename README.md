@@ -20,6 +20,9 @@ To develop a prompt-based application using ChatGPT - To demonstrate how to crea
 
 This prompt guides the LLM to create intelligent and interactive responses that handle task management, scheduling, wellness advice, and more.
 
+![download](https://github.com/user-attachments/assets/1f0956c6-772f-468d-b3fa-366818abde79)
+
+
 ## Procedure
 ### Core Requirements of the Assistant:
 
